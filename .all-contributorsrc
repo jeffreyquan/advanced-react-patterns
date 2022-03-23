@@ -312,6 +312,43 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "infoxicator",
+      "name": "Ruben Casas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17012976?v=4",
+      "profile": "https://github.com/infoxicator",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "marioleed",
+      "name": "Mario Sannum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763448?v=4",
+      "profile": "https://github.com/marioleed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AbePlays",
+      "name": "Abhishek Rawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47311875?v=4",
+      "profile": "https://wrongabhishek.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Fullchee",
+      "name": "Fullchee Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11246258?v=4",
+      "profile": "http://fullchee.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoHost": "https://github.com",
